@@ -9,6 +9,25 @@ It builds upon:
 
 ---
 
+Perfecto, lo que te falta es añadir una sección de **instalación** al README para explicar cómo usar el `requirements.txt`. Te propongo insertarlo justo después de la introducción y antes de “Repository Structure”:
+
+---
+
+## Installation
+
+Clone the repository and install the dependencies:
+
+```bash
+git clone https://github.com/mariogolbano/HTDEMUCS-for-interference-mitigation.git
+cd HTDEMUCS-for-interference-mitigation
+pip install -r requirements.txt
+````
+
+This will install all the necessary Python packages (PyTorch, NumPy, h5py, SciPy, etc.) to run dataset generation, training and inference.
+
+```
+
+
 ## Repository Structure
 
 ### Top-level training and inference scripts
