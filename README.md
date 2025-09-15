@@ -9,10 +9,6 @@ It builds upon:
 
 ---
 
-Perfecto, lo que te falta es añadir una sección de **instalación** al README para explicar cómo usar el `requirements.txt`. Te propongo insertarlo justo después de la introducción y antes de “Repository Structure”:
-
----
-
 ## Installation
 
 Clone the repository and install the dependencies:
