@@ -21,8 +21,6 @@ pip install -r requirements.txt
 
 This will install all the necessary Python packages (PyTorch, NumPy, h5py, SciPy, etc.) to run dataset generation, training and inference.
 
-```
-
 
 ## Repository Structure
 
@@ -133,5 +131,5 @@ This will install all the necessary Python packages (PyTorch, NumPy, h5py, SciPy
 ## Acknowledgements
 
 - Adapted from **HTDemucs** (Défossez et al., Facebook AI Research).  
-- RF domain adaptation and dataset framework developed as part of the UC3M Master’s Thesis on data-driven interference rejection.  
+- RF domain adaptation and dataset framework developed as part of the UC3M Master’s Thesis on data-driven framework for interference rejection.  
 - Inspired by and connected to the RF Challenge community (MIT, UC3M, Bar-Ilan, MIT-LL).  
